@@ -1,0 +1,38 @@
+Changelog (2015-09-28)
+	- Added functionality
+		- Patient Record/Profile
+			- View a patient record
+			- Edit a patient record 
+				* With the Edit button.
+				* Redirects to Patient form with autofilled data
+			- Admit a patient
+				* With the Admit button. 
+				* Success msg shows if successful, error msg otherwise
+			- Discharge a patient 
+				* With the Discharge button.
+				* Discharge button shows up if patient is currently admitted
+		- Patient Search
+			- View all patients
+			- View accdg. to name and ID
+				* With the search box and filters
+			- View specific patient record
+				* With the BLUE button
+				* Redirects to Patient profile
+			- Admit specific patient record
+				* With the GREEN button
+				* Success msg shows if successful, error msg otherwise
+		- Admitted Patient Queue
+			- View all admitted patients
+			- View specific patient record
+				* With the BLUE button
+				* Redirects to Patient profile
+			- Discharge (?) a patient
+				* With the RED button
+				* Success msg shows if successful, error msg otherwise
+		- Patient Form
+			- Add a Patient record
+
+			
+			
+		
+		

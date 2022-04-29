@@ -1,0 +1,34 @@
+CONTROLLERS
+	home
+	main
+	user
+	createuser	
+
+VIEWS
+	about.php
+	forgot
+	home
+	empty_discharge
+	empty_patient
+	confirmChangePass
+	contacts
+	access_denied
+	about
+	navbar									
+	main.php
+	login.php
+	createuserview
+	jobform
+	userform
+	admit_queue								//not finished
+	admit_view								//not finished
+	admit_form								//not finished
+	admit_search							//not finished
+	admit_sidebar
+	admit_schedule
+	admit_queue								//not finished
+	header
+	footer
+	changePass
+	confirmChangePass
+	userlist
